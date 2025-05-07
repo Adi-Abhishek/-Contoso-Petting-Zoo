@@ -1,0 +1,14 @@
+D:\dotnetProject\GuidedProject\GuidedProject\PettingZoo\bin\Debug\net8.0\PettingZoo.exe
+D:\dotnetProject\GuidedProject\GuidedProject\PettingZoo\bin\Debug\net8.0\PettingZoo.deps.json
+D:\dotnetProject\GuidedProject\GuidedProject\PettingZoo\bin\Debug\net8.0\PettingZoo.runtimeconfig.json
+D:\dotnetProject\GuidedProject\GuidedProject\PettingZoo\bin\Debug\net8.0\PettingZoo.dll
+D:\dotnetProject\GuidedProject\GuidedProject\PettingZoo\bin\Debug\net8.0\PettingZoo.pdb
+D:\dotnetProject\GuidedProject\GuidedProject\PettingZoo\obj\Debug\net8.0\PettingZoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetProject\GuidedProject\GuidedProject\PettingZoo\obj\Debug\net8.0\PettingZoo.AssemblyInfoInputs.cache
+D:\dotnetProject\GuidedProject\GuidedProject\PettingZoo\obj\Debug\net8.0\PettingZoo.AssemblyInfo.cs
+D:\dotnetProject\GuidedProject\GuidedProject\PettingZoo\obj\Debug\net8.0\PettingZoo.csproj.CoreCompileInputs.cache
+D:\dotnetProject\GuidedProject\GuidedProject\PettingZoo\obj\Debug\net8.0\PettingZoo.dll
+D:\dotnetProject\GuidedProject\GuidedProject\PettingZoo\obj\Debug\net8.0\refint\PettingZoo.dll
+D:\dotnetProject\GuidedProject\GuidedProject\PettingZoo\obj\Debug\net8.0\PettingZoo.pdb
+D:\dotnetProject\GuidedProject\GuidedProject\PettingZoo\obj\Debug\net8.0\PettingZoo.genruntimeconfig.cache
+D:\dotnetProject\GuidedProject\GuidedProject\PettingZoo\obj\Debug\net8.0\ref\PettingZoo.dll
